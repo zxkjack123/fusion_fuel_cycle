@@ -1,0 +1,6 @@
+Applications:
+    fusion_fuel_cycle:
+        app_types:
+            - fusion_fuel_cycleApp
+        content_directory: ${ROOT_DIR}/doc/content
+        log_default: WARNING
